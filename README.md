@@ -4,7 +4,7 @@
     
 <p align="center">
   <img src="https://img.shields.io/badge/discord-n.tnhwt-5865F2?logo=discord&amp;logoColor=white&amp;labelColor=555555&amp;style=flat" alt="discord: n.tnhwt">
-  <img src="https://custom-icon-badges.demolab.com/badge/ongoing-snoopy-white?logo=visualstudiocode&amp;logoColor=white&amp;labelColor=555555&amp;style=flat" alt="ongoing: snoopy">
+  <img src="https://custom-icon-badges.demolab.com/badge/ongoing-Snoopy-white?logo=visualstudiocode&amp;logoColor=white&amp;labelColor=555555&amp;style=flat" alt="ongoing: snoopy">
   <img src="https://img.shields.io/badge/me-sleeping-64748B?labelColor=555555&amp;style=flat" alt="me sleeping">
 </p>
 
